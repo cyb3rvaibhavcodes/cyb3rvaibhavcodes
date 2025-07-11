@@ -3,11 +3,7 @@
 </div>
 
 ###
-
 <h1 align="center">Vaibhav Gupta - Developer</h1>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/cyb3rvaibhav/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -17,7 +13,7 @@
   </a>
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cyb3rvaibhavcodes.cyb3rvaibhavcodes&"  />
@@ -75,19 +71,24 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Trophies :</h3>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cyb3rvaibhavcodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyb3rvaibhavcodes" alt="cyb3rvaibhavcodes" /></a> </p>
 
 ###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyb3rvaibhavcodes/cyb3rvaibhavcodes/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyb3rvaibhavcodes/cyb3rvaibhavcodes/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cyb3rvaibhavcodes/cyb3rvaibhavcodes/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/8iHj-xAQVOAAAAAC/qr-code-mario.gif"  />
+</div>
 
 ###
